@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/12 19:59:35.000.599,=C:\Users\Ruan\Desktop\Fase3 2018\Assets\favicon.ico</Transaction>
+    <Transaction>2018/11/12 20:15:14.000.021,=C:\Users\Ruan\Desktop\Fase3 2018\Databases\fotos.mdb</Transaction>
+    <Transaction>2018/11/12 20:15:50.000.920,=C:\Users\Ruan\Desktop\Fase3 2018\Assets\geometry-background.png</Transaction>
+    <Transaction>2018/11/12 20:25:07.000.384,C:\Users\Ruan\Desktop\Fase3 2018\Assets\geometry-background.png=</Transaction>
+    <Transaction>2018/11/14 12:07:53.000.645,=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.pas</Transaction>
+    <Transaction>2018/11/14 12:08:23.000.296,C:\Users\Ruan\Desktop\Fase3 2018\ImageProcessing.pas=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.pas</Transaction>
+    <Transaction>2018/11/14 17:16:10.000.360,=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.pas</Transaction>
+    <Transaction>2018/11/14 17:16:40.000.352,C:\Users\Ruan\Desktop\Fase3 2018\Unit1.pas=C:\Users\Ruan\Desktop\Fase3 2018\Edit_U.pas</Transaction>
+    <Transaction>2018/11/14 17:16:40.000.352,C:\Users\Ruan\Desktop\Fase3 2018\Unit1.dfm=C:\Users\Ruan\Desktop\Fase3 2018\Edit_U.dfm</Transaction>
+    <Transaction>2018/11/15 08:30:28.726,=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.pas</Transaction>
+    <Transaction>2018/11/15 08:30:42.438,C:\Users\Ruan\Desktop\Fase3 2018\RGBchannels_U.pas=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.pas</Transaction>
+    <Transaction>2018/11/15 08:30:42.439,C:\Users\Ruan\Desktop\Fase3 2018\RGBchannels_U.dfm=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.dfm</Transaction>
+    <Transaction>2018/11/15 09:32:21.553,=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.pas</Transaction>
+    <Transaction>2018/11/15 09:32:32.745,C:\Users\Ruan\Desktop\Fase3 2018\Brightness_U.dfm=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.dfm</Transaction>
+    <Transaction>2018/11/15 09:32:32.745,C:\Users\Ruan\Desktop\Fase3 2018\Brightness_U.pas=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.pas</Transaction>
+    <Transaction>2018/11/15 11:10:42.563,=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.pas</Transaction>
+    <Transaction>2018/11/15 11:10:57.345,C:\Users\Ruan\Desktop\Fase3 2018\ContrastForm_U.pas=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.pas</Transaction>
+    <Transaction>2018/11/15 11:10:57.345,C:\Users\Ruan\Desktop\Fase3 2018\ContrastForm_U.dfm=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.dfm</Transaction>
+    <Transaction>2018/11/15 12:00:07.531,=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.pas</Transaction>
+    <Transaction>2018/11/15 12:00:21.124,C:\Users\Ruan\Desktop\Fase3 2018\dmData_U.pas=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.pas</Transaction>
+    <Transaction>2018/11/15 12:00:21.124,C:\Users\Ruan\Desktop\Fase3 2018\dmData_U.dfm=C:\Users\Ruan\Desktop\Fase3 2018\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
